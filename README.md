@@ -4,12 +4,14 @@
 
 ### cmd codes
 npm run serve
+
 npm run backend
 
-![Capture](https://user-images.githubusercontent.com/112224378/202877011-60c24f82-56bf-4bd9-94fb-e986be5e18a0.PNG)
+![Capture](https://user-images.githubusercontent.com/112224378/202877283-e27e88a4-c980-4cf3-8a5e-da6d1dd34552.PNG)
 
 
-![1Capture](https://user-images.githubusercontent.com/112224378/202877012-0f5a4753-f33c-49c2-8166-6675392acedc.PNG)
+![1Capture](https://user-images.githubusercontent.com/112224378/202877286-2a743954-10be-4c95-ae40-25d2139698cb.PNG)
 
 
-![2Capture](https://user-images.githubusercontent.com/112224378/202877017-7b9348b8-edc6-436f-895a-de51cb7ff064.PNG)
+![2Capture](https://user-images.githubusercontent.com/112224378/202877292-3babf088-a162-49a7-aab3-56f00756d9f2.PNG)
+
